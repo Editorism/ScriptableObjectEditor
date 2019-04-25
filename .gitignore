@@ -1,0 +1,10 @@
+/Library
+/Packages
+/Logs
+/.vs
+obj/
+/Temp
+*.collabignore
+*.csproj
+*.sln
+*.userprefs
